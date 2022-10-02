@@ -12,6 +12,11 @@
   color: #fff;
 }
 
+#hackhover:hover {
+  background-color: transparent;
+  cursor: pointer;
+}
+
 .l-bg-blue-dark {
   background: linear-gradient(to right, #373b44, rgb(2, 54, 136) ) !important;
   color: #fff;
